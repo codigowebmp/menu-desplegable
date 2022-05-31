@@ -50,3 +50,11 @@ nav{
 	text-decoration: none;
 	padding: 15px 15px 15px 20px;
 }
+
+#html{
+	margin: auto;
+	padding: 20px;
+	max-width: 900px;
+	background: white;
+
+}
